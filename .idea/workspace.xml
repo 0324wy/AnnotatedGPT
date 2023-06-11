@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2ddac5d-ff72-4f1a-ac75-efddb7536ca5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AnnotatedGPT.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnotatedGPT.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnnotatedGPT.py" beforeDir="false" afterPath="$PROJECT_DIR$/AnnotatedGPT.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686295362616</updated>
-      <workItem from="1686295363995" duration="731000" />
+      <workItem from="1686295363995" duration="15815000" />
     </task>
     <servers />
   </component>
