@@ -1,0 +1,12 @@
+pandas
+torch
+torchdata
+torchtext
+spacy
+altair
+jupytext
+flake8
+black
+GPUtil
+wandb
+datasets

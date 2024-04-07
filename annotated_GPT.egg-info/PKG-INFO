@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: annotated-GPT
+Version: 0.0.1
+Requires-Dist: pandas
+Requires-Dist: torch
+Requires-Dist: torchdata
+Requires-Dist: torchtext
+Requires-Dist: spacy
+Requires-Dist: altair
+Requires-Dist: jupytext
+Requires-Dist: flake8
+Requires-Dist: black
+Requires-Dist: GPUtil
+Requires-Dist: wandb

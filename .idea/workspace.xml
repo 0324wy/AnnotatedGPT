@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2ddac5d-ff72-4f1a-ac75-efddb7536ca5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/AnnotatedGPT.py" beforeDir="false" afterPath="$PROJECT_DIR$/AnnotatedGPT.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cet.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,9 @@
     <property name="options.splitter.main.proportions" value="0.3" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -147,7 +149,7 @@
       <updated>1686295362616</updated>
       <workItem from="1686295363995" duration="23342000" />
       <workItem from="1687921263744" duration="41000" />
-      <workItem from="1712381472214" duration="307000" />
+      <workItem from="1712381472214" duration="4242000" />
     </task>
     <servers />
   </component>

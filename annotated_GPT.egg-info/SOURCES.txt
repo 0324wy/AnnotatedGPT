@@ -1,0 +1,7 @@
+README.md
+setup.py
+annotated_GPT.egg-info/PKG-INFO
+annotated_GPT.egg-info/SOURCES.txt
+annotated_GPT.egg-info/dependency_links.txt
+annotated_GPT.egg-info/requires.txt
+annotated_GPT.egg-info/top_level.txt
